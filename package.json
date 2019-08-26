@@ -2,10 +2,14 @@
   "name": "api-gi",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://gerardgenovese.github.io/gijoeapi",
   "repository": "git@github.com:gerardgenovese/gijoeapi.git",
   "author": "<gmoneymaster24@yahoo.com>",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^2.1.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages"
   }
 }
