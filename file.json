@@ -1,7 +1,7 @@
 
   {
     "hawk":{
-      "picture": "public/img/joe/hawk.jpg",
+      "picture": "/public/img/joe/hawk.jpg",
       "faction": "G.I. Joe",
       "sex": "Male",
       "height": "5'10\"",
